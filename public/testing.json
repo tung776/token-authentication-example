@@ -17,8 +17,12 @@
           },
           {
             "{{#else}}": {
-              "type": "$default"
-            }
+          "type": "$util.banner",
+          "options": {
+            "title": "Clicked",
+            "description": "Link {{$jason.url}} clicked!"
+          }
+        }
           }
         ]
       }
