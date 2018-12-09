@@ -29,14 +29,14 @@
             "background": "#575757",
             "padding": "20"
           },
-          "placeholder": "enter email"
+          "placeholder": "Điền Email"
         }, {
           "type": "space",
           "height": "5"
         }, {
           "type": "textfield",
           "name": "password",
-          "placeholder": "enter password",
+          "placeholder": "Điền mật khẩu",
           "style": {
             "size": "20",
             "color": "#8bb92d",
