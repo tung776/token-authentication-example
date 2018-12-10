@@ -27,7 +27,7 @@
     "body": {
       "background": {
         "type": "html",
-        "url": "http://soncattuong.edu.vn",
+        "url": "http://soncattuong.edu.vn/web#id=&action=182&model=board.board&view_type=form&menu_id=1",
         "action": {
           "trigger": "visit"
         }
